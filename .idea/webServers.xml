@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="17da53ea-bc7e-41b7-bbc1-415e8a687d27" name="APproject" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp2\htdocs\Approject" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
